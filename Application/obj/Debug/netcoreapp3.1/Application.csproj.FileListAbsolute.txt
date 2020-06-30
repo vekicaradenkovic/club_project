@@ -1,0 +1,12 @@
+D:\aspproject\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\aspproject\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\aspproject\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\aspproject\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\aspproject\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\aspproject\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\aspproject\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\aspproject\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\aspproject\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\aspproject\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\aspproject\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\aspproject\Application\obj\Debug\netcoreapp3.1\Application.pdb

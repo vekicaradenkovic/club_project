@@ -1,0 +1,16 @@
+D:\aspproject\Implementation\bin\Debug\netcoreapp3.1\Implementation.deps.json
+D:\aspproject\Implementation\bin\Debug\netcoreapp3.1\Implementation.dll
+D:\aspproject\Implementation\bin\Debug\netcoreapp3.1\Implementation.pdb
+D:\aspproject\Implementation\bin\Debug\netcoreapp3.1\Application.dll
+D:\aspproject\Implementation\bin\Debug\netcoreapp3.1\Domain.dll
+D:\aspproject\Implementation\bin\Debug\netcoreapp3.1\EfDataAccess.dll
+D:\aspproject\Implementation\bin\Debug\netcoreapp3.1\Application.pdb
+D:\aspproject\Implementation\bin\Debug\netcoreapp3.1\EfDataAccess.pdb
+D:\aspproject\Implementation\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\aspproject\Implementation\obj\Debug\netcoreapp3.1\Implementation.csprojAssemblyReference.cache
+D:\aspproject\Implementation\obj\Debug\netcoreapp3.1\Implementation.csproj.CoreCompileInputs.cache
+D:\aspproject\Implementation\obj\Debug\netcoreapp3.1\Implementation.AssemblyInfoInputs.cache
+D:\aspproject\Implementation\obj\Debug\netcoreapp3.1\Implementation.AssemblyInfo.cs
+D:\aspproject\Implementation\obj\Debug\netcoreapp3.1\Implementation.csproj.CopyComplete
+D:\aspproject\Implementation\obj\Debug\netcoreapp3.1\Implementation.dll
+D:\aspproject\Implementation\obj\Debug\netcoreapp3.1\Implementation.pdb

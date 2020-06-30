@@ -1,0 +1,15 @@
+D:\aspproject\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.deps.json
+D:\aspproject\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.runtimeconfig.json
+D:\aspproject\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.runtimeconfig.dev.json
+D:\aspproject\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.dll
+D:\aspproject\EfDataAccess\bin\Debug\netcoreapp3.1\EfDataAccess.pdb
+D:\aspproject\EfDataAccess\bin\Debug\netcoreapp3.1\Domain.dll
+D:\aspproject\EfDataAccess\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\aspproject\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.csprojAssemblyReference.cache
+D:\aspproject\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.csproj.CoreCompileInputs.cache
+D:\aspproject\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.AssemblyInfoInputs.cache
+D:\aspproject\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.AssemblyInfo.cs
+D:\aspproject\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.csproj.CopyComplete
+D:\aspproject\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.dll
+D:\aspproject\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.pdb
+D:\aspproject\EfDataAccess\obj\Debug\netcoreapp3.1\EfDataAccess.genruntimeconfig.cache

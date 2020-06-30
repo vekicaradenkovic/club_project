@@ -27,4 +27,4 @@ Imamo sledece celine : - domenski sloj, u kome nam se nalaze entiteti,
 Svaki API je obradjen pravilima za validaciju.
 
 ### Diagram baze podataka
-![Screenshot](https://imgur.com/0pDhVPc)
+![alt text](https://github.com/vekicaradenkovic/club_project/blob/master/database-diagram.png?raw=true)

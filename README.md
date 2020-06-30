@@ -14,6 +14,10 @@ Autorizacija je definisana na nivou korisnika i superadmin jedino dodeljuje priv
 
 Dohvatanje svih podataka za svaki end point moguce je pretrazivati na osnovu razlicith parametara.Ukoliko se ne prosledi ni jedan od parametara, dohvatice se samo trenutno aktivni korisnici ( koji nisu obrisani, DeletedAt == null ).
 
+### Parametri za logovanje
+
+username: velja
+password: velja123
 
 
 ### Struktura projekta

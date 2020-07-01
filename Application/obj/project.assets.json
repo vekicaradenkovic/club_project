@@ -954,11 +954,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\aspproject\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\club_project\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\aspproject\\Application\\Application.csproj",
+      "projectPath": "D:\\club_project\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\vekic\\.nuget\\packages\\",
-      "outputPath": "D:\\aspproject\\Application\\obj\\",
+      "outputPath": "D:\\club_project\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -977,8 +977,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\aspproject\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\aspproject\\Domain\\Domain.csproj"
+            "D:\\club_project\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\club_project\\Domain\\Domain.csproj"
             }
           }
         }

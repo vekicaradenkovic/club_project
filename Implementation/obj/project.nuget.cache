@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lfoo6nd34zm19vdTJ/Wd2/n4h7WC2szah/qD+EUw9nwt1aUZsgD1yyM2r36QJ4rbMGaKL4nNd2YF817esltphQ==",
+  "dgSpecHash": "JzrZc3OgsK001o+rHwBNt8z95QIGxg6VKmml1U0vSydfyMlxQpA/AkgVp6VLN1xJogPOqWjr52q8JPzuyhQwJg==",
   "success": true,
-  "projectFilePath": "D:\\aspproject\\Implementation\\Implementation.csproj",
+  "projectFilePath": "D:\\club_project\\Implementation\\Implementation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vekic\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\vekic\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

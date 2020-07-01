@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C/+C1oSFm7OVhpjXpLfaA5q9CqrjULYqP6GPIGd3jcA5b8V0QW3ABbmPcAhcE2DZaslrJ5hkH88q1UKGJsEZyQ==",
+  "dgSpecHash": "nS3XmPi3baJ3RRl931bzeGNeINNXlQHhB4W34I6RKfic7jvYE64iHauG5TZctoFh2WWKsRfgycgwFMkJZzXZTA==",
   "success": true,
-  "projectFilePath": "D:\\aspproject\\EfDataAccess\\EfDataAccess.csproj",
+  "projectFilePath": "D:\\club_project\\EfDataAccess\\EfDataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vekic\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\vekic\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

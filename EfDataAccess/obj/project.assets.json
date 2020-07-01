@@ -5023,11 +5023,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\aspproject\\EfDataAccess\\EfDataAccess.csproj",
+      "projectUniqueName": "D:\\club_project\\EfDataAccess\\EfDataAccess.csproj",
       "projectName": "EfDataAccess",
-      "projectPath": "D:\\aspproject\\EfDataAccess\\EfDataAccess.csproj",
+      "projectPath": "D:\\club_project\\EfDataAccess\\EfDataAccess.csproj",
       "packagesPath": "C:\\Users\\vekic\\.nuget\\packages\\",
-      "outputPath": "D:\\aspproject\\EfDataAccess\\obj\\",
+      "outputPath": "D:\\club_project\\EfDataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5046,8 +5046,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\aspproject\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\aspproject\\Domain\\Domain.csproj"
+            "D:\\club_project\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\club_project\\Domain\\Domain.csproj"
             }
           }
         }

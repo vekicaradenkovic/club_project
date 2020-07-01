@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\aspproject\\Application\\Application.csproj": {}
+    "D:\\club_project\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\aspproject\\Application\\Application.csproj": {
+    "D:\\club_project\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aspproject\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\club_project\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\aspproject\\Application\\Application.csproj",
+        "projectPath": "D:\\club_project\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\vekic\\.nuget\\packages\\",
-        "outputPath": "D:\\aspproject\\Application\\obj\\",
+        "outputPath": "D:\\club_project\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\aspproject\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\aspproject\\Domain\\Domain.csproj"
+              "D:\\club_project\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\club_project\\Domain\\Domain.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "D:\\aspproject\\Domain\\Domain.csproj": {
+    "D:\\club_project\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aspproject\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\club_project\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\aspproject\\Domain\\Domain.csproj",
+        "projectPath": "D:\\club_project\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\vekic\\.nuget\\packages\\",
-        "outputPath": "D:\\aspproject\\Domain\\obj\\",
+        "outputPath": "D:\\club_project\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

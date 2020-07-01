@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b+z1wvbj54MBM8sm1DRTQ3u9nIqIXxZvt7mP47pqIZaSoocjR2SHKTXg3fRBnM6v3SZ7Eadqy+YxEzCTw4/ASQ==",
+  "dgSpecHash": "iTM+xEF5INoQ6g1wusVhUL3AGatYRsyi38BfuxyqoBOSRDkPOskgtgFdKR3EXswaUYwqFFK+uw7wMrGVFcxYHQ==",
   "success": true,
-  "projectFilePath": "D:\\aspproject\\Api\\Api.csproj",
+  "projectFilePath": "D:\\club_project\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vekic\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\vekic\\.nuget\\packages\\automapper.data\\4.1.0\\automapper.data.4.1.0.nupkg.sha512",

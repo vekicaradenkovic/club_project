@@ -10,3 +10,15 @@ D:\aspproject\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
 D:\aspproject\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
 D:\aspproject\Application\obj\Debug\netcoreapp3.1\Application.dll
 D:\aspproject\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\club_project\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\club_project\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\club_project\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\club_project\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\club_project\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\club_project\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\club_project\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\club_project\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\club_project\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\club_project\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\club_project\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\club_project\Application\obj\Debug\netcoreapp3.1\Application.pdb

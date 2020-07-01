@@ -5715,11 +5715,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\aspproject\\Api\\Api.csproj",
+      "projectUniqueName": "D:\\club_project\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "D:\\aspproject\\Api\\Api.csproj",
+      "projectPath": "D:\\club_project\\Api\\Api.csproj",
       "packagesPath": "C:\\Users\\vekic\\.nuget\\packages\\",
-      "outputPath": "D:\\aspproject\\Api\\obj\\",
+      "outputPath": "D:\\club_project\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5738,14 +5738,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\aspproject\\Application\\Application.csproj": {
-              "projectPath": "D:\\aspproject\\Application\\Application.csproj"
+            "D:\\club_project\\Application\\Application.csproj": {
+              "projectPath": "D:\\club_project\\Application\\Application.csproj"
             },
-            "D:\\aspproject\\EfDataAccess\\EfDataAccess.csproj": {
-              "projectPath": "D:\\aspproject\\EfDataAccess\\EfDataAccess.csproj"
+            "D:\\club_project\\EfDataAccess\\EfDataAccess.csproj": {
+              "projectPath": "D:\\club_project\\EfDataAccess\\EfDataAccess.csproj"
             },
-            "D:\\aspproject\\Implementation\\Implementation.csproj": {
-              "projectPath": "D:\\aspproject\\Implementation\\Implementation.csproj"
+            "D:\\club_project\\Implementation\\Implementation.csproj": {
+              "projectPath": "D:\\club_project\\Implementation\\Implementation.csproj"
             }
           }
         }
